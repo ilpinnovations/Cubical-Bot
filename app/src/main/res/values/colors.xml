@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorExitButton">#dd3d31</color>
+
+    <color name="colorButton">#558B2F</color>
+    <color name="colorWhite">#dadada</color>
+    <color name="colorOffWhite">#b9b9b9</color>
+    <color name="colorDarkOffWhite">#979696</color>
+</resources>

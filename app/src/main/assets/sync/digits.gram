@@ -1,0 +1,15 @@
+#JSGF V1.0;
+
+grammar digits;
+
+<digit> = GOTOADMIN     |
+          GOTOBIPM      |
+          GOTOBIZSKILL  |
+          GOTOEXIT      |
+          GOTOHELPDESK  |
+          GOTOHR        |
+          GOTOINNOVATION|
+          GOTOJAVA      |
+          GOTOMAINFRAME ;
+
+public <digits> = <digit>+;
